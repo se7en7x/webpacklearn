@@ -20,8 +20,10 @@
   "homepage": "https://github.com/se7en7x/webpacklearn#readme",
   "devDependencies": {
     "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.2",
     "style-loader": "^0.19.1",
-    "webpack": "^3.10.0"
+    "webpack": "^3.10.0",
+    "webpack-manifest-plugin": "^1.3.2"
   },
   "dependencies": {
     "lodash": "^4.17.4"
